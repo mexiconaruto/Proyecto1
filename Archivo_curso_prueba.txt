@@ -1,4 +1,4 @@
-Este es un pendejo texto para un curso necesario de Git.
+Este es un pendejo texto para un curso necesario de Git y Github.
 
 Una nueva línea para prácticaa.
 
