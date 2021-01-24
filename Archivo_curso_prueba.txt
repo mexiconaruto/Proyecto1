@@ -1,3 +1,5 @@
-Esta es un pendejo texto para un curso necesario.
+Este es un pendejo texto para un curso necesario de Git.
+
+Una nueva línea para práctica.
 
 Jodete Freddy.
